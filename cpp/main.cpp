@@ -2,6 +2,6 @@
 
 int main() {
     // Zadanie 3: dopisz login lub pseudonim do komunikatu.
-    std::cout << "Hello from C++! Author: msuchorski" << '\n'
+    std::cout << "Hello from C++! Author: msuchorski" << '\n';
     return 0;
 }
