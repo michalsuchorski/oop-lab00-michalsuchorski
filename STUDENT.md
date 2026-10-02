@@ -21,13 +21,19 @@ Hello from Java! Author: msuchorski
 ## Błąd i poprawka (zadanie 5)
 - Krótki fragment komunikatu błędu i numer linii: 5: error: expected ‘;’ before ‘return’
 - Przyczyna oraz sposób naprawy: Brak ";" na końcu linii
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Commit z błędem (SHA lub link): [Link](https://github.com/michalsuchorski/oop-lab00-michalsuchorski/commit/58a1be0e718c40d6272bfa7811a4dcd62f175e26)
+- Czy Actions pokazały błąd, a po naprawie sukces? Tak
 
 ## Krótkie odpowiedzi
-1. Co różni commit od push? ...
-2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
-3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
+1. Co różni commit od push? 
+- Commit zapisuje tylko zmiany w lokalnej historii, a push wysyła commit do repozytorium zdalnego.
+
+2. Dlaczego po scaleniu PR wykonuję lokalnie pull? 
+- Bo zazwyczaj przechodzi się na główną gałęź po scaleniu, to trzeba wtedy pobrać te zmiany z głównej gałęzi, zeby nie było błędów przy następnych commitach.
+
+3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza?
+- Potwierdza skompilowanie się kodu i uruchomienie go w środkowisku CI, ale nie sprawdza konfiguracji komputera i reszty zadań.
+
 
 ## Ewentualne problemy środowiska
 Brak / opis problemu i sposób rozwiązania: ...
