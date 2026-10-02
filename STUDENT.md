@@ -6,7 +6,7 @@
 - Wersja Git: 2.52.0
 - Wersja kompilatora C++: clang-1700.6.3.2
 - Wersje java i javac: 17.0.20
-- Link do pierwszego PR (uzupełnij w zadaniu 5): ...
+- Link do pierwszego PR (uzupełnij w zadaniu 5): [Link](https://github.com/michalsuchorski/oop-lab00-michalsuchorski/commit/1249f78654c902d91027bfa17ef490be2220dd74)
 
 ## Uruchomienie lokalne
 Wynik programu C++:
@@ -19,8 +19,8 @@ Hello from Java! Author: msuchorski
 ```
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
+- Krótki fragment komunikatu błędu i numer linii: 5: error: expected ‘;’ before ‘return’
+- Przyczyna oraz sposób naprawy: Brak ";" na końcu linii
 - Commit z błędem (SHA lub link): ...
 - Czy Actions pokazały błąd, a po naprawie sukces? ...
 
