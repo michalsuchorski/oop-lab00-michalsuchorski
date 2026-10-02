@@ -1,21 +1,21 @@
 # Moje wykonanie Lab00
 
-- Login GitHub / pseudonim: ...
-- System i terminal (np. Windows + WSL Ubuntu): ...
-- Edytor / IDE: ...
-- Wersja Git: ...
-- Wersja kompilatora C++: ...
-- Wersje java i javac: ...
+- Login GitHub / pseudonim: michalsuchorski
+- System i terminal (np. Windows + WSL Ubuntu): MacOS + iTerm
+- Edytor / IDE: Visual Studio Code
+- Wersja Git: 2.52.0
+- Wersja kompilatora C++: clang-1700.6.3.2
+- Wersje java i javac: 17.0.20
 - Link do pierwszego PR (uzupełnij w zadaniu 5): ...
 
 ## Uruchomienie lokalne
 Wynik programu C++:
 ```text
-...
+Hello from C++! Author: msuchorski
 ```
 Wynik programu Java:
 ```text
-...
+Hello from Java! Author: msuchorski
 ```
 
 ## Błąd i poprawka (zadanie 5)
